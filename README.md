@@ -14,7 +14,7 @@
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="[https://github.com/file-icons/DevOpicons/blob/master/svg/python.svg](https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png)">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
 </div>
 
   ##
